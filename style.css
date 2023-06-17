@@ -29,6 +29,12 @@ body {
   font-size: 1.2rem;
   text-transform: uppercase;
 }
+.box h6 {
+  margin: 10px 0;
+  font-style: italic;
+  font-size: 12px;
+}
+
 .box .date-picker {
   position: relative;
   display: flex;
